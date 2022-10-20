@@ -24,7 +24,7 @@ The dataset utilized for this project contained reviews on watches.  Three quest
 	* Vine 5-star review percent:	    32%		 
 	* Non-Vine 5-star review percent: 52%	
 
-![Calculations.png](https://github.com/dschul01/Amazon_Vine_Analysis/blob/main/Resources/Calculations.png)
+![Calculations2.png](https://github.com/dschul01/Amazon_Vine_Analysis/blob/main/Resources/Calculations2.png)
 
 ## Summary
 
