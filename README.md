@@ -10,7 +10,7 @@ One of fifty datasets containing specific product reviews is selected.  PySpark 
 
 ## Results
 
-The dataset utilized for this project contained reviews on watches.  Three questions needed to be addressed to assess bias.
+The dataset utilized for this project contained reviews on watches.  Three questions needed to be addressed to assess whether there is bias from Vine members.  The calculations performed from the dataframes and results are included in the snapshot below. 
 
 1) How many reviews were from Vine members and non-Vine members.
 	* Vine review count:	    47		 
@@ -23,6 +23,8 @@ The dataset utilized for this project contained reviews on watches.  Three quest
 3) What percentage of Vine reviews were 5 stars and the percentage of non-Vine reviews which were 5 stars.  
 	* Vine 5-star review percent:	    32%		 
 	* Non-Vine 5-star review percent: 52%	
+
+![Calculations.png](https://github.com/dschul01/Amazon_Vine_Analysis/blob/main/Resources/Calculations.png)
 
 ## Summary
 
